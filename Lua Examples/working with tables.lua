@@ -3,17 +3,17 @@ function CreatePizza(_salami, _sausage, _salad, _cheese, _tomatoes, _garlic)
 end
 
 function PrintMenu(name, pizza_place)
-  print(name ..":");
-  for k,v in pairs(pizza_place) do
-    print(" " ..k ..":");
-    print("   Salami:" ..tostring(v.salami));
+  print(name ..":"); -- Print the name of the pizza place
+  for k,v in pairs(pizza_place) do -- Go through all the pizzas
+    print(" " ..k ..":"); -- Print the name of the pizza
+    print("   Salami:" ..tostring(v.salami)); -- Print ingredients...
     print("   Sausage:" ..tostring(v.sausage));
     print("   Salad:" ..tostring(v.salad));
     print("   Cheese:" ..tostring(v.cheese));
     print("   Tomatoes:" ..tostring(v.tomatoes));
     print("   Garlic:" ..tostring(v.garlic));
   end
-  print("");
+  print(""); -- For formatting, add a space
 end
 
 function exampleA()
@@ -31,7 +31,7 @@ function exampleA()
     ["Vampire safe"] = CreatePizza(true, false, true, true, false, true), -- Create a pizza with salami, salad, cheese and garlic
   }
 
-  for k,v in pairs(t_pizza_places) do -- Loop through all pizza places we have declared
+  for k,v in pairs(t_pizza_places) do -- Loop through all pizza places we have declared k = pizza place name, v = pizzas
     PrintMenu(k, v); -- Call the PrintMenu function with our pizza place as the argument
   end
 
