@@ -16,3 +16,4 @@ In the first example you'll see:
 But before you begin, here's some good websites to look at:
 CoH2 Scar-doc: http://www.fortresseuropemod.com/scardoc
 Lua Documentation: https://www.lua.org/manual/5.1/manual.html
+Ideone: http://ideone.com/ [Set programming language to Lua]
