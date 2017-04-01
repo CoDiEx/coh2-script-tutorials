@@ -12,3 +12,7 @@ In the first example you'll see:
   3. Modifying units
   4. Basic "Move here" objective
   5. Basic "Kill officer" objective
+
+But before you begin, here's some good websites to look at:
+CoH2 Scar-doc: http://www.fortresseuropemod.com/scardoc
+Lua Documentation: https://www.lua.org/manual/5.1/manual.html
