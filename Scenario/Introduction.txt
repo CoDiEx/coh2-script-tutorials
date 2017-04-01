@@ -1,0 +1,14 @@
+Hello and welcome to the CoH2 scenario scripting tutorials!
+
+In this tutorial you'll be learning how to:
+  1. Setup a singeplayer map
+  2. The basics of the programming language Lua
+  3. The basics of objectives
+  4. Interacting with the map through script
+  
+In the first example you'll see:
+  1. Setting up a map with 4 players. 2 US players and 2 OKW players (Requires the Western Front Armies DLC)
+  2. Spawning units
+  3. Modifying units
+  4. Basic "Move here" objective
+  5. Basic "Kill officer" objective
