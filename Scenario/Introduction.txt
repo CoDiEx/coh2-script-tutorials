@@ -7,11 +7,12 @@ In this tutorial you'll be learning how to:
   4. Interacting with the map through script
   
 In the first example you'll see:
-  1. Setting up a map with 4 players. 2 US players and 2 OKW players (Requires the Western Front Armies DLC)
-  2. Spawning units
-  3. Modifying units
-  4. Basic "Move here" objective
-  5. Basic "Kill officer" objective
+  1. Setting up a map with 4 players. 2 US players and 2 OKW players (Requires the Western Front Armies DLC) (Beginner)
+  2. Spawning units (Beginner)
+  3. Modifying units (Beginner)
+  4. Basic "Move here" objective (Beginner)
+  5. Basic "Kill officer" objective (Beginner)
+  6. "kill officer before ally" objective (Intermediate)
 
 But before you begin, here's some good websites to look at:
 CoH2 Scar-doc: http://www.fortresseuropemod.com/scardoc
