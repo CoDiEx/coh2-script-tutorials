@@ -11,10 +11,11 @@ In the first example you'll see:
   2. Spawning units (Beginner)
   3. Modifying units (Beginner)
   4. Basic "Move here" objective (Beginner)
-  5. Basic "Kill officer" objective (Beginner)
-  6. "kill officer before ally" objective (Intermediate)
+  5. Make units enter structures (Beginner)
+  6. Basic "Kill officer" objective (Beginner)
+  7. "kill officer before ally" objective (Intermediate)
 
 But before you begin, here's some good websites to look at:
 CoH2 Scar-doc: http://www.fortresseuropemod.com/scardoc
 Lua Documentation: https://www.lua.org/manual/5.1/manual.html
-Ideone: http://ideone.com/ [Set programming language to Lua]
+Ideone: http://ideone.com/ [Set programming language to Lua, test script syntax]
