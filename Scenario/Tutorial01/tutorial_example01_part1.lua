@@ -10,7 +10,7 @@ function _InitObjectives()
 
 end
 
-Scar_AddInit();
+Scar_AddInit(OnInit);
 
 function mission_start()
 
